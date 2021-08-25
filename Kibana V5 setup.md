@@ -1,3 +1,7 @@
+Links used for reference:
+a)https://www.elastic.co/guide/en/kibana/current/deb.html
+b)https://www.simplified.guide/elastic/kibana/install-on-ubuntu
+
 Kibana requires Java 8. Java 9 is not supported To check your Java version, run the following command:
 
 #### java -version
